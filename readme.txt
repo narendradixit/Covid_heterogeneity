@@ -1,0 +1,1 @@
+Each folder contains the relevant data, model and the .mlxtran files necessary for the respective fits. The folders also contain a readme file which provides further details of the procedure.
